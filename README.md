@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Baghdadi Boulanouar</h1>
-<h3 align="center">A passionate developer from France</h3>
+<h3 align="center">A passionate frontend developer from France</h3>
 
-- 👨‍💻 All of my projects are available at [baghdadiboulanouar.fr](baghdadiboulanouar.fr)
+- 👨‍💻 All of my projects are available at [https://baghdadiboulanouar.fr/](https://baghdadiboulanouar.fr/)
 
 - 📫 How to reach me **b.baghdadi@live.fr**
 
